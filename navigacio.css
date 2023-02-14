@@ -1,0 +1,54 @@
+.nav_home{
+    display: flex;
+    justify-content: space-between;
+    background-color: #c1bdbd;
+    border: 2px solid rgb(174, 173, 173);
+    
+}
+.home{
+background-color: red;
+
+
+
+}
+.home a{
+    color: beige;
+    margin: 5px;
+    
+}
+.menu{
+    
+    justify-content: flex-end;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+    margin: 5px;
+   
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.footer{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background-color: #c1bdbd;
+    border: 2px solid rgb(174, 173, 173);
+}
+.footer_home{
+   
+    background-color: red;
+  
+   
+}
+.footer_home a{
+    color: beige;
+    margin: 5px;
+}
+
+
